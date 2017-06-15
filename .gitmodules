@@ -1,0 +1,27 @@
+[submodule "lambdaschoolHomework1"]
+	path = lambdaschoolHomework1
+	url = https://github.com/smith713/lambdaschoolHomework1.git
+[submodule "lswebhomework2"]
+	path = lswebhomework2
+	url = https://github.com/smith713/lswebhomework2.git
+[submodule "lswebhomework3"]
+	path = lswebhomework3
+	url = https://github.com/smith713/lswebhomework3.git
+[submodule "hellolambdaschool"]
+	path = hellolambdaschool
+	url = https://github.com/smith713/hellolambdaschool
+[submodule "lswebhomework4"]
+	path = lswebhomework4
+	url = https://github.com/smith713/lswebhomework4.git
+[submodule "lswebhomework5"]
+	path = lswebhomework5
+	url = https://github.com/smith713/lswebhomework5.git
+[submodule "lswebhomework6"]
+	path = lswebhomework6
+	url = https://github.com/smith713/lswebhomework6.git
+[submodule "lswebhomework7"]
+	path = lswebhomework7
+	url = https://github.com/smith713/lswebhomework7.git
+[submodule "lswebhomework8"]
+	path = lswebhomework8
+	url = https://github.com/smith713/lswebhomework8.git
